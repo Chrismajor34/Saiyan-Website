@@ -83,4 +83,18 @@
   font-weight: 700;
   border-radius: 10px;
   cursor: pointer;
+  color: #ffa700;
+  background-color: black;
+}
+
+.btn a {
+  text-decoration: none;
+}
+.btn a:visited {
+  color: inherit;
+}
+
+.btn a:hover {
+  color: white;
+  font-size: 18px;
 }
